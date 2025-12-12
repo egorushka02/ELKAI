@@ -1,2 +1,2 @@
-# ELKAI🎄
-AI assistant for ELK stack
+# ELKAI 🎄
+AI Assistant for ELK Stack (Elasticsearch, Logstash, Kibana)
